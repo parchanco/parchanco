@@ -19,6 +19,6 @@
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     <a href="https://www.odoo.com/" target="_blank"> <img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png" alt="Odoo" width="65" height="40"/> </a>
 </p>
-## Contact
+<h3 align="left">Contact:</h3>
 
 Find all of my socials and resume in my [website](https://hola.pabloarchanco.es)
