@@ -5,7 +5,7 @@
 
 - 📫  How to reach me **pabloarchanco@gmail.com**
 
-- ☕️ Coffe addict
+- ☕️ Coffee addict
 
 - 🏋🏽‍♂️ Crossfit maniac
 
