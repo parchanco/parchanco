@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h3 align="center">Full stack developer focused on Odoo</h3>
 
-- 🔭  I’m currently working on [reallynicethings.es](https://reallynicethings.es) in Valencia Spain
+- 🔭  I’m currently working on [reallynicethings](https://reallynicethings.es) in Valencia Spain
 
 - 📫  How to reach me **pabloarchanco@gmail.com**
 
