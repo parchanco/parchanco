@@ -10,8 +10,8 @@ Currently building internal tools and ERP integrations at [Scalpers](https://sca
 
 - Python · Odoo · XML/QWeb
 - JavaScript · TypeScript · React · Node.js
-- PostgreSQL · Docker
+- PostgreSQL · Docker · Kubernetes
 
 ## Contact
 
-[hola.pabloarchanco.es](https://hola.pabloarchanco.es)
+[hola.parchanco.dev](https://hola.parchanco.dev)
